@@ -2378,7 +2378,7 @@ blockquote {
 }
 
 .single-color-box.color-saddle-brown {
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   align-items: flex-end;
 }
 
@@ -2448,7 +2448,7 @@ blockquote {
 
 .button-primary {
   border: 1px solid var(--black-heading);
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   color: #000;
   text-transform: uppercase;
   padding: 20px 30px;
@@ -2478,7 +2478,7 @@ blockquote {
 }
 
 .button-primary.button-type-three {
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   color: var(--black-heading);
   border-style: none;
   border-width: 0;
@@ -2533,7 +2533,7 @@ blockquote {
 }
 
 .nav-link:hover {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .nav-link:focus-visible {
@@ -2562,7 +2562,7 @@ blockquote {
 }
 
 .nav-dropdown-toggle:hover {
-  color: var(--green-yellow);
+  color: #07bbbd;
   position: relative;
 }
 
@@ -2604,7 +2604,7 @@ blockquote {
 }
 
 .nav-dropdown-link:hover {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .nav-dropdown-link:focus-visible {
@@ -2622,7 +2622,7 @@ blockquote {
 }
 
 .nav-dropdown-link.w--current {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .nav-list-item {
@@ -2681,7 +2681,7 @@ blockquote {
 }
 
 .focus-word {
-  /* background-color: var(--green-yellow); */
+  /* background-color: #07bbbd; */
   color: var(--black-heading);
   margin-top: 5px;
   margin-bottom: 5px;
@@ -2779,7 +2779,7 @@ blockquote {
   height: 120px;
   grid-column-gap: 52px;
   grid-row-gap: 52px;
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr;
   grid-auto-columns: 1fr;
@@ -2946,7 +2946,7 @@ blockquote {
 }
 
 .client-logo-section {
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   padding-top: 71px;
   padding-bottom: 71px;
 }
@@ -3095,7 +3095,7 @@ blockquote {
 }
 
 .project-category-link:hover {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .project-category-link.team-page {
@@ -3105,7 +3105,7 @@ blockquote {
 
 .project-details-link {
   width: 100%;
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   color: var(--black-heading);
   text-transform: uppercase;
   padding: 13px 20px;
@@ -3240,7 +3240,7 @@ blockquote {
   width: 50px;
   height: 50px;
   border: 1px solid var(--black-heading);
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   color: var(--black-heading);
   justify-content: center;
   align-items: center;
@@ -3306,7 +3306,7 @@ blockquote {
 }
 
 .feature-title-number {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .feature-content-summary {
@@ -3314,7 +3314,7 @@ blockquote {
 }
 
 .blog-section {
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -3451,7 +3451,7 @@ blockquote {
 }
 
 .footer-link:hover {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .footer-link-content {
@@ -3503,8 +3503,8 @@ blockquote {
 }
 
 .footer-social-nav-link:hover {
-  border-color: var(--green-yellow);
-  background-color: var(--green-yellow);
+  border-color: #07bbbd;
+  background-color: #07bbbd;
   color: #0e1926;
   border-radius: 50%;
 }
@@ -3529,7 +3529,7 @@ blockquote {
 }
 
 .webflow-link {
-  color: var(--green-yellow);
+  color: #07bbbd;
   text-decoration: none;
 }
 
@@ -3744,7 +3744,7 @@ blockquote {
 
 .breadcrumb-link:hover,
 .breadcrumb-current-page {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .breadcrumb-wrapper-block {
@@ -3818,7 +3818,7 @@ blockquote {
 }
 
 .service-details-richtext a {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .service-details-richtext h4 {
@@ -4058,7 +4058,7 @@ blockquote {
 .project-features-design-shape {
   width: 20px;
   height: 20px;
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   border-radius: 50%;
 }
 
@@ -4108,8 +4108,8 @@ blockquote {
 }
 
 .pagination-button {
-  border-color: var(--green-yellow);
-  background-color: var(--green-yellow);
+  border-color: #07bbbd;
+  background-color: #07bbbd;
   color: #000;
   text-transform: uppercase;
   border-radius: 5px;
@@ -4179,7 +4179,7 @@ blockquote {
 }
 
 .blog-details-richtext a {
-  color: var(--green-yellow);
+  color: #07bbbd;
   font-weight: 400;
   text-decoration: underline;
 }
@@ -4341,7 +4341,7 @@ blockquote {
 .contact-icon-block {
   width: 90px;
   height: 90px;
-  border: 1px dashed var(--green-yellow);
+  border: 1px dashed #07bbbd;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -4351,7 +4351,7 @@ blockquote {
 .cotact-icon-inner {
   width: 70px;
   height: 70px;
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
@@ -4476,7 +4476,7 @@ blockquote {
 }
 
 .error-intro.section-subtitle {
-  color: var(--green-yellow);
+  color: #07bbbd;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   font-weight: 400;
@@ -4518,8 +4518,8 @@ blockquote {
 }
 
 .faq-tab-link.w--current {
-  border-color: var(--green-yellow);
-  background-color: var(--green-yellow);
+  border-color: #07bbbd;
+  background-color: #07bbbd;
 }
 
 .faq-tab-link-text {
@@ -4670,14 +4670,14 @@ blockquote {
 }
 
 .license-link {
-  color: var(--green-yellow);
+  color: #07bbbd;
   text-transform: capitalize;
   font-weight: 700;
   text-decoration: none;
 }
 
 .license-link:hover {
-  color: var(--green-yellow);
+  color: #07bbbd;
 }
 
 .license-section-title-block {
@@ -4710,7 +4710,7 @@ blockquote {
 
 .released {
   min-height: 45px;
-  background-color: var(--green-yellow);
+  background-color: #07bbbd;
   color: var(--black-heading);
   border-radius: 8px;
   justify-content: center;
@@ -5313,14 +5313,14 @@ blockquote {
   }
 
   .menu-button {
-    background-color: var(--green-yellow);
+    background-color: #07bbbd;
     color: var(--black-heading);
     border-radius: 5px;
     padding: 12px;
   }
 
   .menu-button.w--open {
-    background-color: var(--green-yellow);
+    background-color: #07bbbd;
     color: var(--black-heading);
   }
 
